@@ -1,0 +1,382 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2025 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2025 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2025 MARVEL</a>",
+    "etag": "7d1752ca682ee66d91ab6cbb47ef63e832c4a6dc",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 146160,
+        "count": 20,
+        "results": [
+            {
+                "id": 7,
+                "title": "Investigating the murder of a teenage girl, Cage suddenly learns that a three-way gang war is under way for control of the turf",
+                "description": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/7",
+                "type": "story",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail": null,
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/7/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/7/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/7/series",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6",
+                            "name": "CAGE (2002)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/7/comics",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/941",
+                            "name": "CAGE (Hardcover)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/7/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "originalIssue": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/941",
+                    "name": "CAGE (Hardcover)"
+                }
+            },
+            {
+                "id": 8,
+                "title": "In the wake of September 11th, the world watched as firefighters, police officers and EMT workers selflessly risked their lives",
+                "description": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8",
+                "type": "story",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail": null,
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/8/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/8/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/8/series",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7",
+                            "name": "THE CALL OF DUTY: THE BROTHERHOOD AND THE WAGON (2002)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/8/comics",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/942",
+                            "name": "THE CALL OF DUTY: THE BROTHERHOOD AND THE WAGON (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/8/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "originalIssue": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/942",
+                    "name": "THE CALL OF DUTY: THE BROTHERHOOD AND THE WAGON (Trade Paperback)"
+                }
+            },
+            {
+                "id": 9,
+                "title": "Ordinary New York City cop Frankie &QUOT;Gunz&QUOT; Gunzer now has a new call to duty Ñ not just to uphold the law, but to save ",
+                "description": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9",
+                "type": "story",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail": null,
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/9/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/9/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/9/series",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8",
+                            "name": "THE CALL OF DUTY: THE PRECINCT (2003)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/9/comics",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/943",
+                            "name": "THE CALL OF DUTY: THE PRECINCT (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/9/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "originalIssue": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/943",
+                    "name": "THE CALL OF DUTY: THE PRECINCT (Trade Paperback)"
+                }
+            },
+            {
+                "id": 10,
+                "title": "In this thought-provoking anthology, a world-class collection of top comic-book creators from around the globe presents a series",
+                "description": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/10",
+                "type": "story",
+                "modified": "2014-01-27T00:00:00-0500",
+                "thumbnail": null,
+                "creators": {
+                    "available": 37,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/10/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/14458",
+                            "name": "Phillippe Berthet",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13567",
+                            "name": "Mike Deodato Jr.",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5187",
+                            "name": "Evan Dorkin",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+                            "name": "Pasqual Ferry",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4282",
+                            "name": "Dean Haspiel",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9181",
+                            "name": "Nick Bertozzi",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/441",
+                            "name": "Chris Chuckry",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13355",
+                            "name": "Udon Comics Company",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/14043",
+                            "name": "Sarah Dyer",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13055",
+                            "name": "Richard Isanove",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5185",
+                            "name": "Peter Kuper",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/421",
+                            "name": "Karl Bollers",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/14461",
+                            "name": "Scott Ciencin",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5186",
+                            "name": "Max Allan Collins",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5184",
+                            "name": "Paul Dini",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/237",
+                            "name": "Jeff Jensen",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/52",
+                            "name": "Bruce Jones",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/14459",
+                            "name": "Yann Lepennetier",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4017",
+                            "name": "Mike Huddleston",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+                            "name": "Todd Klein",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/10/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/10/series",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9",
+                            "name": "CAPTAIN AMERICA: RED, WHITE AND BLUE (1999)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/10/comics",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/944",
+                            "name": "CAPTAIN AMERICA: RED, WHITE AND BLUE (Hardcover)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/10/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "originalIssue": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/944",
+                    "name": "CAPTAIN AMERICA: RED, WHITE AND BLUE (Hardcover)"
+                }
+            },
+            {
+                "id": 11,
+                "title": "Interior #11",
+                "description": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/11",
+                "type": "story",
+                "modified": "1969-12-31T19:00:00-0500",
+                "thumbnail": null,
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/11/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/11/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/11/series",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10",
+                            "name": "Captain Britain Vol. I (1999)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/11/comics",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/945",
+                            "name": "Captain Britain Vol. I (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/11/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "originalIssue": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/945",
+                    "name": "Captain Britain Vol. I (Trade Paperback)"
+                }
+            }
+]
+}
+}
